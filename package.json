@@ -1,6 +1,6 @@
 {
   "name": "bind-at",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Bind arguments at a certain index",
   "keywords": [],
   "author": "Matt Morgan <matt@mlmorg.com>",
